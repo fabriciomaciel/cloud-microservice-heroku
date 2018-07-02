@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -jar target/heroku-microservice-1.0.0-jar-with-dependencies.jar
